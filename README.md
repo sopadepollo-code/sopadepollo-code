@@ -60,4 +60,6 @@ lenguas mixtecas; al norte y al este con algunas de las lenguas zapotecas.
 
 
 
-</body>
+</BODY>
+  
+</HTML>
